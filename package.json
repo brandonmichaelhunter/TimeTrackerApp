@@ -1,0 +1,24 @@
+{
+  "name": "timetrackerapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "angular": "^1.4.8",
+    "electron-connect": "^0.3.3",
+    "grunt-jasmine-runner": "^0.6.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp": "^3.9.0",
+    "gulp-webserver": "^0.9.1",
+    "lovefield": "^2.1.2",
+    "bootstrap": "^3.3.6",
+    "nopt": "^3.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "brandon m. hunter",
+  "license": "ISC"
+}
